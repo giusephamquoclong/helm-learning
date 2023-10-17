@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  upgrade-rlbk:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-30T09:41:47.2468725Z"
+    description: A Helm chart with five pod
+    digest: e7924f709d0eead8a79c3e7c2bad55c555cb9d906cc0a9d3ec7973934e299718
+    name: upgrade-rlbk
+    type: application
+    urls:
+    - charts/upgrade-rlbk-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-30T09:26:22.8100011Z"
+    description: A Helm chart with three pod
+    digest: e0ae229bd9b6151ac2bca8ae798b98f5fa03c5f115b8bd712cfd90a63ecd730c
+    name: upgrade-rlbk
+    type: application
+    urls:
+    - charts/upgrade-rlbk-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-30T08:38:06.8449221Z"
+    description: A Helm chart for upgrade and rollback detail
+    digest: 303d553b47e7476bf3de7cc164ab0b2ed5abd25da509666d2ee60445b7c75102
+    name: upgrade-rlbk
+    type: application
+    urls:
+    - charts/upgrade-rlbk-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-30T09:41:47Z"
+serverInfo: {}
